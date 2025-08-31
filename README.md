@@ -45,10 +45,11 @@
 
 ### 🤝 Looking For
 - **Collaboration** on medical-imaging ML projects  
-- **Research Internship** opportunities (2025 summer) in AI x Healthcare labs  
+- **Research Internship** opportunities in AI x Healthcare labs  
 - Mentorship & feedback on my upcoming **first-author paper** ✍️
 
 ---
+Last updated: 2025-8-31
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=leowade-p.leowade-p" alt="visitor badge"/>
