@@ -28,7 +28,6 @@
 ---
 
 ### ✨  Links
-- 🖥 **Portfolio Website / CV** → <https://leowade-p.github.io/>  
 - 📬 **Email** →  <huyiding5@gmail.com>
 
 ---
