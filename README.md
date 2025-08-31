@@ -1,6 +1,5 @@
 <!--
   If you like this README, give it a ⭐ or fork it!
-  Generated with ❤️ by ChatGPT
 -->
 
 <p align="center">
@@ -26,11 +25,9 @@
 
 ---
 
-> **Interests:** Medical Image Analysis  • Explainable AI • Statistical Modeling
-
 ---
 
-### ✨ Highlights & Links
+### ✨  Links
 - 🖥 **Portfolio Website / CV** → <https://leowade-p.github.io/>  
 - 📬 **Email** →  <huyiding5@gmail.com>
 
