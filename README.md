@@ -20,7 +20,7 @@
 ### 🔭 Ongoing Projects
 | Repository | Brief | Tech |
 | ---------- | ----- | ---- |
-| [`dino-vit`](https://github.com/leowade-p/dino-vit) | Exploring self-supervised *DINO* pre-training on medical images & fine-tuning for tumor classification | PyTorch • ViT |
+| [`dino-vit`](https://github.com/leowade-p/dino-vit-project-page) | Exploring self-supervised *DINO* pre-training on medical images & fine-tuning for tumor classification | PyTorch • ViT |
 | **Manuscript in Preparation** | Writing my first paper on benign/malignant tumor prediction 🎯 | PyTorch  • Stats |
 
 ---
