@@ -1,54 +1,58 @@
-<!--
-  If you like this README, give it a ⭐ or fork it!
--->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4EDCFB&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Yiding+Hu+%F0%9F%91%8B;Math+%26+CS+Dual+Major+@+Sichuan+University;Medical+Imaging+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4EDCFB&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Yiding+(Leo)+Hu+👋;Math+%26+CS+Dual+Major+@+Sichuan+University;Research+Intern+@+Stony+Brook+Univ;Medical+AI+%26+Hierarchical+Agents+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 About Me
-- 🎓 **B.Sc. in Mathematics & Computer Science** (Double Major), **Sichuan University**  
-  &nbsp;&nbsp;&nbsp;*GPA&nbsp;3.87 / 4.00&nbsp;·&nbsp;Rank 1/40*  
-- 🔬 **Undergrad Researcher** – *Benign vs. Malignant Tumor Classification* using computer vision & deep learning  
-- 💡 Passionate about **medical imaging, AI4Health, and making research truly help people**  
-- 🌱 Currently diving into **Vision Transformers (ViT)** & self-supervised learning (check out **`dino-vit`** 👇)  
+- 🎓 **B.Sc. in Mathematics & Computer Science** (Double Major), **Sichuan University** (2023.09 - 2027.06) 
+  &nbsp;&nbsp;&nbsp;*GPA 3.86 / 4.00 · **Rank 1/40** · National Scholarship Recipient (Top 1%)*
+- 🔬 **Undergraduate Researcher**:
+  - **Medical AI**: Working with Prof. Haofeng Li (SYSU) and Prof. Liang Yang (SCU) on 3D tumor classification.
+  - **AI Agents**: Working with Prof. Chenyu You (Stony Brook University) on Time-Series Agents.
+- 🏆 **Honors**: 3rd Prize in the **"Challenge Cup"** National Undergraduate Academic Science and Technology Contest.
+- 💡 Passionate about bridging the gap between **Multimodal Medical AI** and **Autonomous Agents** to solve real-world clinical challenges.
 
 ---
 
-### 🔭 Ongoing Projects
-| Repository | Brief | Tech |
-| ---------- | ----- | ---- |
-| [`dino-vit`](https://github.com/leowade-p/dino-vit-project-page) | Exploring self-supervised *DINO* pre-training on medical images & fine-tuning for tumor classification | PyTorch • ViT |
-| **Manuscript in Preparation** | Writing my first paper on benign/malignant tumor prediction 🎯 | PyTorch  • Stats |
+### 🚀 Key Research Projects
+
+| Project | Tech Stack | Core Contribution | Status |
+| :--- | :--- | :--- | :--- |
+| **LA-MIL** | `PyTorch` `DINOv2` `LoRA` | Proposed a Lesion-Aware MIL framework for 3D tumor classification (AUC 95.36%) | **Submitted to TMI** |
+| **TSci-Agent** | `LangGraph` `LLMs` | Designed a hierarchical calling & critic mechanism to optimize cost-accuracy trade-offs | **Ongoing @ SBU** |
+| **dino-vit** | `PyTorch` `ViT` | Exploring self-supervised representation learning on small-scale medical datasets | [Repo](https://github.com/leowade-p/dino-vit-project-page) |
 
 ---
 
----
+### 🛠️ Tech Stack
 
-### ✨  Links
-- 📬 **Email** →  <huyiding5@gmail.com>
+- **Languages**: Python (Expert), C/C++, basic CUDA, LaTeX
+- **Domains**: 3D Medical Imaging (CT/US), Time Series Forecasting, Hierarchical AI Agents
+- **Tools**: PyTorch, LangGraph, OpenCV, Git, Linux, Cursor (AI-native dev)
+- **Languages**: English (IELTS 7.5), Mandarin (Native)
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
 
-![leowade-p's GitHub stats](https://github-readme-stats.vercel.app/api?username=leowade-p&show_icons=true&theme=default&hide=prs,issues&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leowade-p&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=leowade-p&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leowade-p&layout=compact&theme=tokyonight" alt="top langs" />
 
 </div>
 
 ---
 
-### 🤝 Looking For
-- **Collaboration** on medical-imaging ML projects  
-- **Research Internship** opportunities in AI x Healthcare labs  
-- Mentorship & feedback on my upcoming **first-author paper** ✍️
+### 🤝 Connect with Me
+- 📧 **Email**: <huyiding5@gmail.com>
+- 🎯 **Goal**: Seeking **Ph.D. opportunities for 27 Fall** in AI x Healthcare and collaborating with talented researchers.
+- 💬 **Open for**: Discussions on Medical Image Segmentation/Classification or Agent Architectures. Feel free to reach out!
 
 ---
-Last updated: 2025-8-31
+<p align="right"> 
+  Last updated: 2026-04-01 
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=leowade-p.leowade-p" alt="visitor badge"/>
