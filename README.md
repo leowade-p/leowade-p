@@ -9,7 +9,7 @@
   &nbsp;&nbsp;&nbsp;*GPA 3.86 / 4.00 · **Rank 1/40** · National Scholarship Recipient (Top 1%)*
 - 🔬 **Undergraduate Researcher**:
   - **Medical AI**: Working with Prof. Haofeng Li (SYSU) and Prof. Liang Yang (SCU) on 3D tumor classification.
-  - **AI Agents**: Working with Prof. Chenyu You (Stony Brook University) on Time-Series Agents.
+
 - 🏆 **Honors**: 3rd Prize in the **"Challenge Cup"** National Undergraduate Academic Science and Technology Contest.
 - 💡 Passionate about bridging the gap between **Multimodal Medical AI** and **Autonomous Agents** to solve real-world clinical challenges.
 
