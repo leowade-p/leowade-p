@@ -19,9 +19,9 @@
 
 | Project | Tech Stack | Core Contribution | Status |
 | :--- | :--- | :--- | :--- |
-| **LA-MIL** | `PyTorch` `DINOv2` `LoRA` | Proposed a Lesion-Aware MIL framework for 3D tumor classification (AUC 95.36%) | **Submitted to TMI** |
+| **LA-MIL** | `PyTorch` `DINOv2` `LoRA` | Proposed a Lesion-Aware MIL framework for 3D tumor classification (AUC 95.36%) | [Repo](https://github.com/leowade-p/LAMIL) |
 | **TSci-Agent** | `LangGraph` `LLMs` | Designed a hierarchical calling & critic mechanism to optimize cost-accuracy trade-offs | **Ongoing @ SBU** |
-| **dino-vit** | `PyTorch` `ViT` | Exploring self-supervised representation learning on small-scale medical datasets | [Repo](https://github.com/leowade-p/dino-vit-project-page) |
+
 
 ---
 
