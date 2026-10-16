@@ -1,4 +1,4 @@
-```html
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4EDCFB&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Yiding+(Leo)+Hu+👋;Math+%26+CS+Dual+Major+@+Sichuan+University;Research+Intern+@+Stony+Brook+Univ;AI+for+Science+(AI4Sci)+Enthusiast" alt="Typing SVG" />
 </p>
@@ -55,4 +55,4 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=leowade-p.leowade-p" alt="visitor badge"/>
 </p>
-```
+
