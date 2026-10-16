@@ -43,7 +43,6 @@
 ### 🤝 Connect with Me
 
 - 📧 **Email**: <huyiding5@gmail.com>
-- 🎯 **Goal**: Seeking **Fall 2027 Ph.D. opportunities** in **AI for Science (AI4Sci)**.
 - 💬 **Open for**: Research discussions and collaborations in AI4Sci, scientific machine learning, and interdisciplinary AI research. Feel free to reach out!
 
 ---
